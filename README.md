@@ -1,7 +1,4 @@
 # hello-world
+learning git hub
 
-## Learning git hub.
-
-I'm an Auzzie in America. 
-
-I'm learning Pyhon, YANG, RESTCONF, NETCONF.
+Auzzie in America
