@@ -1,4 +1,4 @@
 # hello-world
-learning git hub
+## learning git hub
 
 Auzzie in America
