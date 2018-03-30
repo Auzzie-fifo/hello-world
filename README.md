@@ -1,6 +1,6 @@
 # hello-world
 
-## learning git hub.
+## Learning git hub.
 
 I'm an Auzzie in America. 
 
